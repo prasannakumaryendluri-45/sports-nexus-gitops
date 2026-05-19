@@ -1,5 +1,5 @@
 image:
   repository: YOUR_ECR_IMAGE
-  tag: latest
+  tag: "40"
 
 replicaCount: 2
