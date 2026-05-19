@@ -1,5 +1,3 @@
 image:
-  repository: YOUR_ECR_IMAGE
+  repository: 834922934378.dkr.ecr.ap-south-1.amazonaws.com/sports-nexus
   tag: "40"
-
-replicaCount: 2
