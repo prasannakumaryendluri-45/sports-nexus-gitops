@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/prasannakumaryendluri-45/sports-nexus-gitops.git
+    repoURL: https://github.com/prasannakumaryendluri-45/sports-nexus-helm.git
     targetRevision: main
-    path: dev
+    path: sports-nexus
 
   destination:
     server: https://kubernetes.default.svc
