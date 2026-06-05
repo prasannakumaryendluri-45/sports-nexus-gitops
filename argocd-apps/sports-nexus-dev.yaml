@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<your-github-username>/sports-nexus-helm.git
+    repoURL: https://github.com/prasannakumaryendluri-45/sports-nexus-helm.git
     targetRevision: main
     path: sports-nexus
 
